@@ -88,7 +88,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jadenblack/actual](https://github.com/jadenblack/actual)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|93<br/>Tools used|12/14/23 <br/>Report generated|
+|94<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -439,9 +439,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (54)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (55)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (54)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (55)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -461,6 +461,7 @@ Full tech stack [here](/techstack.md)
 |[csv-parse](https://www.npmjs.com/csv-parse)|v4.16.3|04/29/22|James Long |MIT|N/A|
 |[debounce](https://www.npmjs.com/debounce)|v1.2.1|08/19/23|Joel Jeremy Marquez |MIT|N/A|
 |[deep-equal](https://www.npmjs.com/deep-equal)|v2.2.1|04/29/22|James Long |MIT|N/A|
+|[downshift](https://www.npmjs.com/downshift)|v7.6.0|09/04/23|Oleh |MIT|N/A|
 |[electron-builder](https://www.npmjs.com/electron-builder)|v24.6.4|09/10/23|Matiss Janis Aboltins |MIT|N/A|
 |[eslint-config-react-app](https://www.npmjs.com/eslint-config-react-app)|v7.0.1|11/14/23|Matiss Janis Aboltins |MIT|N/A|
 |[eslint-import-resolver-typescript](https://www.npmjs.com/eslint-import-resolver-typescript)|v3.5.5|06/30/23|Shazib Hussain |ISC|N/A|
