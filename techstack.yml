@@ -2,7 +2,7 @@ repo_name: jadenblack/actual
 report_id: 1daab9c390aa5856d94215aff7352b2c
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:23:09+00:00'
+timestamp: '2024-02-29T19:03:35+00:00'
 requested_by: MikesGlitch
 provider: github
 branch: master
@@ -358,7 +358,7 @@ tools:
   last_updated_by: Matiss Janis Aboltins
   last_updated_on: 2023-06-18 19:16:50.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.2
   license: MIT
